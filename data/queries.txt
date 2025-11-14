@@ -1,0 +1,3 @@
+Austral*;
+(house OR home) NOT car;
+computer AND (monitor OR keyboard) NOT mouse;

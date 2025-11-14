@@ -1,0 +1,30 @@
+{
+    "k": 5,
+    "docs": [
+        {
+            "rank": 1,
+            "document_id": "1122",
+            "score": 16.9624
+        },
+        {
+            "rank": 2,
+            "document_id": "5306",
+            "score": 16.895
+        },
+        {
+            "rank": 3,
+            "document_id": "525",
+            "score": 16.7572
+        },
+        {
+            "rank": 4,
+            "document_id": "2590",
+            "score": 16.6486
+        },
+        {
+            "rank": 5,
+            "document_id": "2721",
+            "score": 16.6376
+        }
+    ]
+}
